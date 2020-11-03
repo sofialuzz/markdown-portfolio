@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Currently I am studying __front-end development__ contents, such as _HTML, CSS and JavaScript_.
